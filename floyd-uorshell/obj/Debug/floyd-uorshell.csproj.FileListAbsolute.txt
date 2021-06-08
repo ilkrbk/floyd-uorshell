@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/bin/Debug/floyd_uorshell.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/bin/Debug/floyd_uorshell.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/obj/Debug/floyd-uorshell.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/obj/Debug/floyd-uorshell.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/obj/Debug/floyd_uorshell.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/floyd-uorshell/floyd-uorshell/obj/Debug/floyd_uorshell.pdb
